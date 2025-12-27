@@ -661,7 +661,7 @@ It helps others discover real-world AI testing beyond marketing claims.
 
 ## 📞 Contact & Discussion
 
-- 💬 **Discussions:** [Open an issue](https://github.com/yourusername/Ai-Benchmark-Gpt-vs-Gemini/issues)
+- 💬 **Discussions:** [Open an issue](https://github.com/NSICT-Tech/Ai-Benchmark-Gpt-vs-Gemini/issues)
 - 🐦 **Twitter:** [@NSICT_Tech]
 - 📧 **Email:** 
 

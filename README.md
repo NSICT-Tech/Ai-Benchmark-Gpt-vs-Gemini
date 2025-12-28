@@ -561,27 +561,6 @@ cat analysis/scoring-rubric.md
 | ChatGPT | ❌ Wrong (hallucinates) | Carol only | ~65% |
 | Gemini | ✅ Proves impossible | Dan only | ~98% |
 
-
----
-
-## 📁 Repository Structure
-
-```
-ai-benchmark-detective/
-├── 📄 README.md                    (You are here)
-├── 📁 challenge/
-│   ├── problem.md                  (Full prompt)
-│   ├── solution-explanation.md     (Correct analysis)
-├── 📁 responses/
-│   ├── chatgpt-response.md         (Full ChatGPT output)
-│   ├── gemini-response.md          (Full Gemini output)
-├── 📁 analysis/
-│   ├── analysis.md           (Detailed grading)
-├── 📁 assets/
-│   ├── performance-chart.png
-
-```
-
 ---
 
 ## 🎯 Conclusions & Recommendations
